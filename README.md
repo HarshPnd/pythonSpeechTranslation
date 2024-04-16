@@ -37,8 +37,13 @@ Environment Preparation: Set up the necessary software environments (Linux) if u
 This command install all the  required packages mentioned in "requirement.txt"
 
         python '.\p1(running_translation).py'
-    
+
 To run the python translation program.
+
+
+        python '.\p2.py'
+    
+To run the python translation program with the Select language functionality.
 
 ----
 
